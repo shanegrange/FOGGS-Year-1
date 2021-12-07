@@ -1,0 +1,19 @@
+﻿  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\include\vector(1757,29): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>::_Mypair': class 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\include\vector(1757): message : see declaration of 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\g019001l\OneDrive - Staffordshire University\Semester 1\Fundamentals of Games and Graphical\Pacman Project\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>' being compiled
+C:\Users\g019001l\OneDrive - Staffordshire University\Semester 1\Fundamentals of Games and Graphical\Pacman Project\Pacman\Pacman.cpp(99,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g019001l\OneDrive - Staffordshire University\Semester 1\Fundamentals of Games and Graphical\Pacman Project\Pacman\Pacman.cpp(100,68): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g019001l\OneDrive - Staffordshire University\Semester 1\Fundamentals of Games and Graphical\Pacman Project\Pacman\Pacman.cpp(162,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g019001l\OneDrive - Staffordshire University\Semester 1\Fundamentals of Games and Graphical\Pacman Project\Pacman\Pacman.cpp(170,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g019001l\OneDrive - Staffordshire University\Semester 1\Fundamentals of Games and Graphical\Pacman Project\Pacman\Pacman.cpp(177,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\g019001l\OneDrive - Staffordshire University\Semester 1\Fundamentals of Games and Graphical\Pacman Project\Pacman\Pacman.cpp(185,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Pacman.vcxproj -> C:\Users\g019001l\OneDrive - Staffordshire University\Semester 1\Fundamentals of Games and Graphical\Pacman Project\Debug\Pacman.exe
